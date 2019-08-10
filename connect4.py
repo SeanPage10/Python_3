@@ -1,4 +1,9 @@
-
+######################################
+# THIS IS A CONNECT 4 GAME MADE WITH
+# PYTHON IN PYCHARM
+# PLAYERS INTERACT WITH THE GAME 
+# USING A COMMAND LINE PROMPT
+######################################
 import numpy as np
 
 ROW_COUNT = 6
